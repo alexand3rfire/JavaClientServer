@@ -1,0 +1,2 @@
+String from file
+Second string from file
